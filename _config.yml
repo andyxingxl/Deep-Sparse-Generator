@@ -1,0 +1,12 @@
+#theme: jekyll-theme-cayman
+# Setup
+title:       "Towards Interpretable Image Synthesis by Learning Sparsely Connected AND-OR Networks"
+baseurl:      "/Deep-Sparse-Generator"
+
+# About/contact
+author:
+  name:       Andy Xing
+  url:        https://github.com/andyxingxl
+
+#Others
+markdown: kramdown
