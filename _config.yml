@@ -1,6 +1,6 @@
 #theme: jekyll-theme-cayman
 # Setup
-title:       "Towards Interpretable Image Synthesis by Learning Sparsely Connected AND-OR Networks"
+title:       "Inducing Hierarchical Compositional Model by Sparsifying Generator Network"
 baseurl:      "/Deep-Sparse-Generator"
 
 # About/contact
